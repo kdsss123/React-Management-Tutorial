@@ -4,7 +4,7 @@ import './App.css';
 
 class App extends Component {
   render(){
-    return(
+    return( 
       <div className="gray-background">
         <img src={logo} lat="logo" />
           <h2>Let's develop management system!</h2>
